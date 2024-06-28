@@ -30,6 +30,9 @@ h1 {
 h2 {
     font-size: 1.8rem;
     margin-bottom: 10px;
+    color: #ffffff;
+    background-color: lightgray;
+    border-radius: 8px;
 }
 
 .color-scheme {
@@ -41,21 +44,6 @@ h2 {
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
-}
-
-#aurant {
-    background-color: lightgray;
-    border-radius: 8px;
-}
-
-#saffron {
-    background-color: lightgray;
-    border-radius: 8px;
-}
-
-#tangerine {
-    background-color: lightgray;
-    border-radius: 8px;
 }
 
 .color-box {
@@ -104,4 +92,5 @@ h2 {
 .about h2 {
     font-size: 2rem;
     margin-bottom: 20px;
+    color: #ffffff;
 }
