@@ -1,62 +1,55 @@
 # Terminal Color Schemes
 
-This project showcases three color schemes named Aurant, Saffron,and
-Tangerine, each designed for terminal environments. It includes a web
-interface displaying these color schemes along with their respective
-palettes.
+This repository contains three terminal color schemes: Aurant, Saffron,
+and Tangerine.You can preview these schemes on the website and download
+configuration files for different terminal emulators.
 
 ## Color Schemes
 
+1. **Aurant**
+   - ![#1d2021](https://via.placeholder.com/15/1d2021/000000?text=+) `#1d2021`
+   - ![#fbf1c7](https://via.placeholder.com/15/fbf1c7/000000?text=+) `#fbf1c7`
+   - ![#fe8019](https://via.placeholder.com/15/fe8019/000000?text=+) `#fe8019`
+   - More colors...
+
+2. **Saffron**
+   - ![#ff5733](https://via.placeholder.com/15/ff5733/000000?text=+) `#ff5733`
+   - ![#ffda33](https://via.placeholder.com/15/ffda33/000000?text=+) `#ffda33`
+   - ![#33ff57](https://via.placeholder.com/15/33ff57/000000?text=+) `#33ff57`
+   - More colors...
+
+3. **Tangerine**
+   - ![#fe8019](https://via.placeholder.com/15/fe8019/000000?text=+) `#fe8019`
+   - ![#fabd2f](https://via.placeholder.com/15/fabd2f/000000?text=+) `#fabd2f`
+   - ![#8ec07c](https://via.placeholder.com/15/8ec07c/000000?text=+) `#8ec07c`
+   - More colors...
+
+## Download
+
 ### Aurant
-- Very dark gray: `#1d2021`
-- Ivory: `#fbf1c7`
-- Bright orange: `#fe8019`
-- Dark sea green: `#8ec07c`
-- Medium purple: `#d3869b`
-- Bright yellow: `#fabd2f`
-- Dark cyan: `#83a598`
-- Dark gray: `#282828`
-- Dark coffee: `#3c3836`
-- Gray: `#928374`
-- Brown: `#504945`
-- Dark brown: `#665c54`
-- Light coffee: `#7c6f64`
-- Grayish brown: `#a89984`
+
+- [Aurant TXT](schemes/aurant.txt)
+- [Aurant GNOME Terminal Config](configs/gnome-aurant.dconf)
+- [Aurant iTerm2 Config](configs/iterm2-aurant.itermcolors)
+- [Aurant Alacritty Config](configs/alacritty-aurant.yml)
 
 ### Saffron
-- Bright orange: `#ff5733`
-- Bright yellow: `#ffda33`
-- Bright green: `#33ff57`
-- Bright blue: `#338aff`
-- Bright pink: `#ff33f5`
-- Bright cyan: `#33e6ff`
-- Brighter orange: `#ff8533`
-- Brighter yellow: `#ffcf33`
-- Brighter green: `#33ff6b`
-- Brighter blue: `#33a6ff`
-- Brighter pink: `#ff33b5`
-- Brighter cyan: `#33f7ff`
-- Another bright orange: `#ffa833`
-- Another bright yellow: `#ffd933`
+
+- [Saffron TXT](schemes/saffron.txt)
+- [Saffron GNOME Terminal Config](configs/gnome-saffron.dconf)
+- [Saffron iTerm2 Config](configs/iterm2-saffron.itermcolors)
+- [Saffron Alacritty Config](configs/alacritty-saffron.yml)
 
 ### Tangerine
-- Bright orange: `#ff5733`
-- Bright yellow: `#ffda33`
-- Bright green: `#33ff57`
-- Bright blue: `#338aff`
-- Bright pink: `#ff33f5`
-- Bright cyan: `#33e6ff`
-- Bright orange (again): `#ff5733`
-- Brighter orange: `#ff8533`
-- Brighter yellow: `#ffcf33`
-- Brighter green: `#33ff6b`
-- Brighter blue: `#33a6ff`
-- Brighter pink: `#ff33b5`
-- Brighter cyan: `#33f7ff`
-- Another bright orange: `#ffa833`
-- Another bright yellow: `#ffd933`
 
-## Contributing
+- [Tangerine TXT](schemes/tangerine.txt)
+- [Tangerine GNOME Terminal Config](configs/gnome-tangerine.dconf)
+- [Tangerine iTerm2 Config](configs/iterm2-tangerine.itermcolors)
+- [Tangerine Alacritty Config](configs/alacritty-tangerine.yml)
 
-Feel free to contribute by adding more color schemes or improving the
-display!
+## About
+
+This project showcases three terminal color schemes for use in various
+terminal emulators.Click on any color box on the website to copy its color
+value to the clipboard. Download links for each color scheme and terminal
+configuration are provided for easy setup.
