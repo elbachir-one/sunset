@@ -1,45 +1,74 @@
+/* Reset and general styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
-    background-color: #f0f0f0; /* Light gray background */
-    text-align: center; /* Center align text */
-    padding: 20px; /* Add padding for content */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa; /* Light gray background */
+    color: #495057; /* Dark gray text color */
+    line-height: 1.6;
 }
 
 header {
-    margin-bottom: 20px; /* Space below header */
+    background-color: #343a40; /* Dark background for header */
+    color: #ffffff; /* White text color */
+    padding: 20px 0;
+    text-align: center;
+    margin-bottom: 40px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
 }
 
 .color-scheme {
-    margin-bottom: 40px; /* Space below each color scheme */
+    margin-bottom: 40px;
 }
 
 .palette {
     display: flex;
+    justify-content: center;
+    gap: 20px;
     flex-wrap: wrap;
-    gap: 10px;
 }
 
 .color-box {
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 5px;
-    font-size: 14px;
-    color: black;
-    transition: background-color 0.3s ease;
+    border-radius: 8px;
+    font-size: 1rem;
+    color: #ffffff; /* White text color */
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .color-box:hover {
     transform: scale(1.1);
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
 }
 
 .about {
-    margin-top: 40px; /* Space above About section */
-    text-align: left; /* Left align text in About section */
-    padding: 20px; /* Padding for About section */
     background-color: #ffffff; /* White background */
-    border-radius: 5px; /* Rounded corners */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin-top: 40px;
+    line-height: 1.8;
+}
+
+.about h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
 }
