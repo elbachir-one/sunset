@@ -1,0 +1,16 @@
+- `#000000` Black
+- `#ffffff` White
+- `#c990fc` Light purple
+- `#d6e9bb` Light green
+- `#c8a0ef` Light purple
+- `#c697f2` Light purple
+- `#2fb0d7` Light blue
+- `#d39758` Light brown
+- `#c990fc` Light purple
+- `#f7c4d7` Light pink
+- `#fba5c8` Light pink
+- `#e0931e` Light orange
+- `#383e30` Dark gray
+- `#565f4a` Dark green
+- `#7b866a` Grayish green
+- `#a5b490` Grayish green

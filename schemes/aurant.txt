@@ -1,0 +1,16 @@
+- `#1d2021` Very dark gray
+- `#fbf1c7` Ivory
+- `#fe8019` Bright orange
+- `#8ec07c` Dark sea green
+- `#d3869b` Medium purple
+- `#fabd2f` Bright yellow
+- `#83a598` Dark cyan
+- `#fe8019` Bright orange
+- `#1d2021` Very dark gray
+- `#282828` Dark gray
+- `#3c3836` Dark coffee
+- `#928374` Gray
+- `#504945` Brown
+- `#665c54` Dark brown
+- `#7c6f64` Light coffee
+- `#a89984` Grayish brown

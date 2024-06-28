@@ -98,6 +98,7 @@ configuration files for different terminal emulators.
 ## About
 
 This project showcases three terminal color schemes for use in various
-terminal emulators. Click on any color box on the website to copy its
-color value to the clipboard. Download links for each color scheme and
-terminal configuration are provided for easy setup.
+terminal emulators. Download links for each color scheme and terminal
+configuration are provided for easy setup.
+
+For a visual preview, visit [This link](https://elbachir-one.github.io/sunset) to see the colors in action.

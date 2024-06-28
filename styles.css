@@ -41,6 +41,18 @@ h2 {
     flex-wrap: wrap;
 }
 
+#aurant {
+    background-color: lightgray;
+}
+
+#saffron {
+    background-color: lightskyblue;
+}
+
+#tangerine {
+    background-color: lightslategray;
+}
+
 .color-box {
     width: 120px;
     height: 120px;

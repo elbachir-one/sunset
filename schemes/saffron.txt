@@ -1,0 +1,16 @@
+- `#ff5733` Bright orange
+- `#ffda33` Bright yellow
+- `#33ff57` Bright green
+- `#338aff` Bright blue
+- `#ff33f5` Bright pink
+- `#33e6ff` Bright cyan
+- `#ff5733` Bright orange
+- `#ff8533` Brighter orange
+- `#ffcf33` Brighter yellow
+- `#33ff6b` Brighter green
+- `#33a6ff` Brighter blue
+- `#ff33b5` Brighter pink
+- `#33f7ff` Brighter cyan
+- `#ff5733` Bright orange
+- `#ffa833` Another bright orange
+- `#ffd933` Another bright yellow
