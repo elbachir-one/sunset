@@ -1,0 +1,29 @@
+# Tangerine color scheme for Alacritty Terminal
+colors:
+  primary:
+    background: '#000000'
+    foreground: '#ffffff'
+  normal:
+    black: '#000000'
+    red: '#c990fc'
+    green: '#d6e9bb'
+    yellow: '#c8a0ef'
+    blue: '#c697f2'
+    magenta: '#2fb0d7'
+    cyan: '#d39758'
+    white: '#ffffff'
+  bright:
+    black: '#383e30'
+    red: '#c990fc'
+    green: '#d6e9bb'
+    yellow: '#c8a0ef'
+    blue: '#c697f2'
+    magenta: '#2fb0d7'
+    cyan: '#d39758'
+    white: '#ffffff'
+  cursor:
+    text: '#ffffff'
+    cursor: '#ffffff'
+  selection:
+    text: '#000000'
+    background: '#ffffff'

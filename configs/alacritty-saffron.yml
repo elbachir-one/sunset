@@ -1,0 +1,29 @@
+# Saffron color scheme for Alacritty Terminal
+colors:
+  primary:
+    background: '#000000'
+    foreground: '#ffffff'
+  normal:
+    black: '#ff5733'
+    red: '#ffda33'
+    green: '#33ff57'
+    yellow: '#338aff'
+    blue: '#ff33f5'
+    magenta: '#33e6ff'
+    cyan: '#33ff57'
+    white: '#ffffff'
+  bright:
+    black: '#ff8533'
+    red: '#ffda33'
+    green: '#33ff57'
+    yellow: '#338aff'
+    blue: '#ff33f5'
+    magenta: '#33e6ff'
+    cyan: '#33ff57'
+    white: '#ffffff'
+  cursor:
+    text: '#ffda33'
+    cursor: '#ffda33'
+  selection:
+    text: '#000000'
+    background: '#ffffff'
