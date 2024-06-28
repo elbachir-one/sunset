@@ -1,17 +1,15 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: gray;
-    line-height: 1.6;
-    margin: 20px;
+    background-color: #f0f0f0; /* Light gray background */
+    text-align: center; /* Center align text */
+    padding: 20px; /* Add padding for content */
+}
+
+header {
+    margin-bottom: 20px; /* Space below header */
 }
 
 .color-scheme {
-    margin-bottom: 40px;
-}
-
-.color-scheme h2 {
-    font-size: 24px;
-    margin-bottom: 10px;
+    margin-bottom: 40px; /* Space below each color scheme */
 }
 
 .palette {
@@ -35,4 +33,13 @@ body {
 .color-box:hover {
     transform: scale(1.1);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.about {
+    margin-top: 40px; /* Space above About section */
+    text-align: left; /* Left align text in About section */
+    padding: 20px; /* Padding for About section */
+    background-color: #ffffff; /* White background */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow */
 }
